@@ -28,3 +28,10 @@ Front-end (UI Designing)
 # Explanation
 
 - Once the desired setting has been made to the images, it will saved in mongoDB's database named 'imgprocess' inside the collection named 'images'.
+
+# Procedure to run the file
+- Clone the repository
+- Make sure you have nodejs and npm installed in your system.
+- Go inside the directory, open the terminal and give 'npm install'
+- Then give ' npm start'
+- Image will open up in the browser under localhost:3000
